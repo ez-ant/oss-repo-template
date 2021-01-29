@@ -5,5 +5,5 @@ Name: Steven(Ruizhe) Li -
 email: lir7@rpi.edu
 github account: ez-ant
 discord handle: popwolfer
-Photo of Steven Li  ![my_image]/oss-repo-template/IMG_2306.JPG
+Photo of Steven Li  ![my_image] (IMG_2306.JPG)
 
