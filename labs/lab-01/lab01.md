@@ -7,7 +7,7 @@
 
 Photo of Steven Li  ![me](my_photo.JPG)
 
-Photo of discord channel ![discord](discord)
+Photo of discord channel ![discord](discord.jpg)
 
 ## Reading assignments
 
@@ -16,13 +16,13 @@ Suggestions for How to Answer Questions in a Helpful Way:
 2. Saying something is trash may indeed bring you a lot of ideas. For example, if you say linux is the worst operation system because A is not working, many people would come to you and "teach" you how to use A in linux. Although most people are likely to be rude, they give you many hints to solve the problem. 
 
 ## Linux
-OSX: ![mac](mac_tree)
+OSX: ![mac](mac_tree.jpg)
 
-Ubuntu: ![ubuntu'](Ubuntu_tree)
+Ubuntu: ![ubuntu'](Ubuntu_tree.jpg)
 
 
 
 ## Play with Snap or Blockly
-Photo of Blockly ![Blockly](Blockly)
+Photo of Blockly ![Blockly](Blockly.jpg)
 
 ## Reflections
