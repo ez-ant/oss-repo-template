@@ -22,20 +22,20 @@ Photo of Steven Li  ![me](my_photo.JPG)
 ### Free Culture 
 Jesse's engine is a search engin built for the RPI network. It was made by Jesse based on the Microsoft file-sharing system. He was lawsuited for making a modication and create Jesse's engine. Even if he is possible to win the lawsuit, he need to pay a lot of money and go bankrupt. In the end, he choose to give up the fight. That's probably why we need open source software. If a software is not open sourced, other people would not want to modify it since nobody want to get charged. An open source software would encourage other people to modify the code and work together. In the book, it says that even a student could fix the bugs in Microsoft file-sharing system. With lots of people working in the same open-sourced software, bugs would be easily find out and then quickly resolved.
 
-## Linux
+## 3. Linux
 
 OSX: ![mac](mac_tree.jpg)
 
 Ubuntu: ![ubuntu'](Ubuntu_tree.jpg)
 
-## Regex
+## 4. Regex
 
 Regular Expression: ![regular_expression](regular_ex.jpg)
 
 Crossword: ![crossword](crossword.jpg)
 
-## Play with Snap or Blockly
+## 5. Play with Snap or Blockly
 Photo of Blockly ![Blockly](Blockly.jpg)
 
-## Reflections
+## 6. Reflections
 I would like to choose RPI population checker. This is an open source project which tracks the population in RPI and show it in the RPI campus map. However, this project is not well-developed now. Several problems need to be addressed in order to make this project usable. First, this project only include part of the buildings in the campus, it does not include dining halls and dormrooms. Second, the population's data is not accurate. Although developer's team got many ideas on how to collect data, collecting data is still difficult. For now, this software can only show the campus population with the given input data.
