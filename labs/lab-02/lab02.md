@@ -9,3 +9,7 @@ screenshots:
 ![gitk](gitk.jpg)  
 ![git_graph](git_graph.jpg)  
 
+## Part 2
+link to repository: https://github.com/ez-ant/Spoon-Knife
+screenshot of Intro Sequence: ![intro_sequence](intro_sequence.jpg)
+
