@@ -27,3 +27,5 @@ screenshot of the diff:
 
 screenshot of the tag: 
 ![tag](tag.jpg)
+
+link to common repository: https://github.com/Tyromancer/OSSProjectIdeas
