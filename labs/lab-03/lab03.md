@@ -1,4 +1,4 @@
-# Lab 02 Report - 
+# Lab 03 Report - 
 
 
 ## Part 1
@@ -88,14 +88,14 @@ smartrider
 ##### First commit: 8ed5ddec0cbf3762876a175d85bdd2df9d10e38a
 ##### Latest commit: 52fb1802d5c71b522eabee04bc37f5c31bda8014
 ##### Branches:
-master
-bigger-dev
-documentation
-feature-onboarding
-profile-page
-axios-0.21.1
-date-and-time-0.14.2
-ini-1.3.8
+- master
+- bigger-dev
+- documentation
+- feature-onboarding
+- profile-page
+- axios-0.21.1
+- date-and-time-0.14.2
+- ini-1.3.8
 
 
 5. 
