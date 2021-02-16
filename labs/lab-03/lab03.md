@@ -76,12 +76,12 @@ Update app.py
 ##### First commit: d6eb67161dade78a5237a4b6cf7a109fedb74387
 ##### Latest commit: f099ec61dc7a58080079a32e48e05a8d96bae991
 ##### Branches:
-master
-Class-Files
-URLtraverseandJSON
-User-Interface
-rmupdate
-smartrider
+- master
+- Class-Files
+- URLtraverseandJSON
+- User-Interface
+- rmupdate
+- smartrider
 
 ##### Number of contributors: 13
 ##### Lines of code: 301774
