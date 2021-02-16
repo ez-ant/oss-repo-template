@@ -113,5 +113,11 @@ The gitstats show the commits and activities by chart, but it does not show the 
 gource of submitty:
 ![gource_submitty](gource_submitty.jpg)
 
-gource of spiralstats
+gource of spiralstats:
 ![gource_spiral](gource_spiral.jpg)
+
+gource of smartrider:
+![smartrider-gource](smartrider-gource.png)
+
+gource of smab:
+![smab-gource](smab-gource.png)
