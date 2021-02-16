@@ -109,3 +109,9 @@ The number of authors on gitstats is slightly larger than the contributors on gi
 On gitstats, the total number of code = code added - code deleted. But on git log, it only shows the added code. Therefore the corresponding result is far more than code calculated on gitstats.
 
 The gitstats show the commits and activities by chart, but it does not show the number of branches of the project.
+
+gource of submitty:
+![gource_submitty](gource_submitty.jpg)
+
+gource of spiralstats
+![gource_spiral](gource_spiral.jpg)
