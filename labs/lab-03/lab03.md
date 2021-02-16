@@ -45,10 +45,67 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
-###### the current branches: 131 current branches
+###### the current branches: 131 branches
+
+### Project 2: SpiralStats
+
+###### the number of contributors: 5 contributors
+###### number of lines of code: 432 lines in total
+###### the first commit:
+
+commit 79fbe80bc867c19791a9df854e6c600097ed751f
+Author: schnur <44041333+schnur@users.noreply.github.com>
+Date:   Thu Sep 17 16:34:43 2020 -0400
+
+Initial commit
+
+###### the latest commit: 
+
+commit 9432f976a2c7ac457cfbca7915cb630b29d64e68 (HEAD -> master, origin/master, origin/HEAD)
+Author: cwramsdell <44122243+cwramsdell@users.noreply.github.com>
+Date:   Tue Dec 1 17:32:16 2020 -0500
+
+Update app.py
+
+###### the current branches: 7 branches
+
+### Project 3: SMAB
+
+##### Number of contributors: 3
+##### Lines of code: 1606
+##### First commit: d6eb67161dade78a5237a4b6cf7a109fedb74387
+##### Latest commit: f099ec61dc7a58080079a32e48e05a8d96bae991
+##### Branches:
+master
+Class-Files
+URLtraverseandJSON
+User-Interface
+rmupdate
+smartrider
+
+##### Number of contributors: 13
+##### Lines of code: 301774
+##### First commit: 8ed5ddec0cbf3762876a175d85bdd2df9d10e38a
+##### Latest commit: 52fb1802d5c71b522eabee04bc37f5c31bda8014
+##### Branches:
+master
+bigger-dev
+documentation
+feature-onboarding
+profile-page
+axios-0.21.1
+date-and-time-0.14.2
+ini-1.3.8
 
 
+5. 
+![submitty](submitty.jpg)
+![spiralstats](spiralstats.jpg)
+![smab](smab.jpg)
+![smartrider](smartrider.jpg)
 
+The number of authors on gitstats is slightly larger than the contributors on github. 
 
+On gitstats, the total number of code = code added - code deleted. But on git log, it only shows the added code. Therefore the corresponding result is far more than code calculated on gitstats.
 
-
+The gitstats show the commits and activities by chart, but it does not show the number of branches of the project.
