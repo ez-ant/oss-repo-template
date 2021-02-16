@@ -69,7 +69,7 @@ Update app.py
 
 ###### the current branches: 7 branches
 
-### Project 3: SMAB
+### Project 4: smartrider
 
 ##### Number of contributors: 3
 ##### Lines of code: 1606
@@ -82,6 +82,8 @@ Update app.py
 - User-Interface
 - rmupdate
 - smartrider
+
+### Project 3: SMAB
 
 ##### Number of contributors: 13
 ##### Lines of code: 301774
