@@ -22,6 +22,9 @@ Reference:
 https://resources.whitesourcesoftware.com/blog-whitesource/top-10-apache-license-questions-answered
 https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
+Problem 7.
+https://github.com/ez-ant/OSS-lab04-business-model
+
 
 Problem  8. 
 | Website                                       | License Present | License                                                                                                 |
