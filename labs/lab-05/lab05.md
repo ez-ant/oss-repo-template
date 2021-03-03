@@ -128,14 +128,19 @@ cmake_minimum_required(VERSION 3.10)
 project(Lab)
 
 set(CMAKE_CXX_STANDARD 11)
+
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 add_library(staticLib STATIC source/block.c)
+
 add_executable(static_block program.c)
+
 target_link_libraries(static_block staticLib)
 
 add_library(dynamicLib SHARED source/block.c)
+
 add_executable(dynamic_block program.c)
+
 target_link_libraries(dynamic_block dynamicLib)
 
 ##### Outputs:
